@@ -4,6 +4,7 @@ import random as rnd
 from matplotlib.animation import FuncAnimation as FA
 import time
 '''
+
 docstring:
 Point Class (X, Y) and Label (classify as 1 or -1)
 Perceptron Class (weights [], learning rate (C constant))
